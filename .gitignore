@@ -1,0 +1,27 @@
+.metadata
+.project
+.classpath
+.checkstyle
+.settings/
+.externalToolBuilders/
+target/
+bin/
+*.db
+*.log
+*.bak
+*.swp
+*~
+*#
+
+
+# merge trashes
+*.orig
+
+
+# Intellij
+*.iml
+.idea
+
+# jrebel
+rebel.xml
+
