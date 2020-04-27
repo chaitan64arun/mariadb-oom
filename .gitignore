@@ -12,7 +12,7 @@ bin/
 *.swp
 *~
 *#
-
+*.bkp
 
 # merge trashes
 *.orig
